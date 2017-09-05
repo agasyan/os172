@@ -1,0 +1,1 @@
+week01, we learn how to use git, and use various essential git command , which is 'git pull', 'git add','git clone', and 'git push'. learn to use Command line interface and learn basic of scripting.:
