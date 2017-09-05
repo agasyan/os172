@@ -1,1 +1,7 @@
 #agasyan
+
+why we have to study operating system?
+
+in the early days of computer, there is no such thing like Operating System, because if programmer want to make a program that do something , we just put the program into the computer and let the computer do the job without any other task or programs except the one we have at computer right now (1 program per machine).Because in later year computer became more complex, we need something to administer the program and the hardware. and then , OS is created.Operating System is fundamentally is a bridge between the user and computer and because there is an OS in a computer, it makes using computer is easy for everyone and programmer too.
+
+we have to study and not just operate it because if we dont want to there is no such thing as linux and windows that help many people do their work easily. And the study of OS make the OS we use right now is beautiful not just a line of code, and managing the server and our resouece we have become much easier than before.
