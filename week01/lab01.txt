@@ -23,4 +23,3 @@ drwxr-xr-x  2 agas.yanpratama StafCS 4096 Sep  4 16:03 week09
 drwxr-xr-x  2 agas.yanpratama StafCS 4096 Sep  4 16:06 week10
 drwxr-xr-x  2 agas.yanpratama StafCS 4096 Sep  4 16:09 xtra
 /home/fasilkom/mahasiswa/a/agas.yanpratama/os172/week01
-Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
