@@ -1,4 +1,4 @@
-w02-170912-16-LR-About:HKI (Copyright, Copyleft, Free, and Patent),and Introduction to Scripting, From: Lecturer
+202-170912-16-LR-About:HKI (Copyright, Copyleft, Free, and Patent),and Introduction to Scripting, From: Lecturer
 w02-170912-16-LR-About:HKI (Copyright, Copyleft, Free, and Patent),and Introduction to Scripting, From: Lecturer
 w02-170912-17-LR-About:HKI (Copyright, Copyleft, Free, and Patent),and Introduction to Scripting, From: Lecturer
 w02-170914-16-LR-About:Practice Programming Language C(Loop), From: Lecturer
@@ -8,6 +8,6 @@ w02-170915-10-PS-Lab Session of the week two about Privacy Matters, Encryption a
 w02-170915-10-PS-Lab Session of the week two about Privacy Matters, Encryption and Intro to C
 w02-170915-15-PS-Continuing Lab Session of the week two, and finished intro to C
 w02-170916-08-PS-Continuing Lab Session of the week two, finished lab two
-w00-170916-10-LR-About: introduction to C, from Youtube : https://www.youtube.com/watch?v=rk2fK2IIiiQ
+w02-170916-10-LR-About: introduction to C, from Youtube : https://www.youtube.com/watch?v=rk2fK2IIiiQ
 w02-170916-10-DS-Discussing C language with Fardhan Dhiadribratha S.
 w02-170916-11-DS-Discussing C language with Fardhan Dhiadribratha S.
