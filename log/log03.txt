@@ -1,0 +1,5 @@
+w03-230915-08-PS-Lab Session of the week three about linux boot
+w03-230915-08-LR-About: linux boot , source: wikipedia.com, opensource.com, and thegeekstuff.com
+w03-230915-09-PS-Lab Session of the week three about start up script
+w03-230915-09-LR-About: sudo and su , source: https://www.linux.com/blog/how-use-sudo-and-su-commands-linux-introduction and wikipedia.com
+w03-230915-10-PS-Lab Session finalizing lab, encrypt the lab week03.
