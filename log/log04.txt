@@ -1,0 +1,10 @@
+w04-170926-16-LR-About: unix-IO-programming(file descriptor in C, open ,etc), From: Lecturer
+w04-170926-16-LR-About: unix-IO-programming(file descriptor in C, open ,etc), From: Lecturer
+w04-170926-17-LR-About: unix-IO-programming(file descriptor in C, open ,etc), From: Lecturer
+w04-170928-16-LR-About: unix-IO-programming, From: Lecturer
+w04-170928-16-LR-About: input and output, From: Lecturer
+w04-170928-17-LR-About: Quiz answers, From: Lecturer
+w04-170930-12-PS-Lab Session of the week about global variable adress
+w04-170930-13-PS-Lab Session of the week about pointer
+w04-170930-13-PS-Lab Session of the week about pointer and I/O Process
+w04-170930-14-PS-Lab Session of the week about I/O Process and Enrypting.
