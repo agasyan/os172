@@ -1,3 +1,3 @@
 w08-171107-16-LR-Processes Synchronization, week-04-synchronization.pdf, From: Lecturer
-w08-171107-17-LR-Processes Synchronization Lecture and Exercise: 183.pdf (2012 - 1_Sinkronisasi), From: Lecturer
-w08-171107-17-LR-Processes Synchronization Exercise, From: Lecturer
+w08-171107-17-LR-Processes Synchronization Lecture and Exercise: 183.pdf (2012 - 1) Sinkronisasi, From: Lecturer
+w08-171107-17-LR-Processes Synchronization Exercise_Answer : 183.pdf (2012 - 1) Sinkronisasi, From: Lecturer
