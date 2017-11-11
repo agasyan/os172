@@ -1,3 +1,17 @@
 w08-171107-16-LR-Processes Synchronization, week-04-synchronization.pdf, From: Lecturer
 w08-171107-17-LR-Processes Synchronization Lecture and Exercise: 183.pdf (2012 - 1) Sinkronisasi, From: Lecturer
 w08-171107-17-LR-Processes Synchronization Exercise_Answer : 183.pdf (2012 - 1) Sinkronisasi, From: Lecturer
+w08-171109-16-LR-Processes Synchronization, Exercise handout , From: Lecturer
+w08-171109-17-LR-Processes Synchronization, Exercise Handout, From: Lecturer
+w08-171109-17-LR-Processes Synchronization, Exercise Handout Solution, From: Lecturer
+w08-171110-20-PS-Lab Session Of the Week, Read the PDF and Trying to Understand Thread
+w08-171110-20-PS-Lab Session Of the Week, Trying to Understand Thread
+w08-171111-06-PS-Lab Session Of the Week, Trying to Understand Thread
+w08-171111-07-PS-Lab Session Of the Week, Read Code
+w08-171111-07-PS-Lab Session Of the Week, Read Code
+w08-171111-08-DS-Lab Discussion with Samuel Tupa F. about exercise section
+w08-171111-11-DS-Lab Discussion with Fardhan D.S. about exercise section
+w08-171111-11-DS-Lab Discussion with Fardhan D.S. about exercise section
+w08-171111-13-PS-Lab Session Of the Week, Exercise
+w08-171111-14-PS-Lab Session Of the Week, Exercise
+w08-171111-14-PS-Lab Session Of the Week, Finshing
