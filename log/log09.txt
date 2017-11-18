@@ -1,1 +1,9 @@
-
+w09-171113-14-PS-Lab Session of the week Read and move the file to badak server
+w09-171114-16-LR-Schdeuling, OLD-06.pdf, From: Lecturer
+w09-171114-17-LR-Schdeuling, OLD-06.pdf, From: Lecturer
+w09-171114-17-LR-Schdeuling, 183.pdf exercise and answer, From: Lecturer
+w09-171114-16-LR-Schdeuling, OLD-06.pdf, From: Lecturer
+w09-171116-18-DS-Discussing Scheduling of the lab with Fardhan D.S. and Ryan Naufal P.
+w09-171116-18-DS-Discussing Scheduling of the lab with Fardhan D.S. and Ryan Naufal P.
+w09-171118-14-PS-Lab Session of the week (Scheduling , two -level.c) make round robin algorithm
+w09-171118-14-PS-Lab Session of the week (Scheduling , two -level.c) make round robin algorithm
