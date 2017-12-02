@@ -1,0 +1,6 @@
+Github Account : agasyan
+Url Ulasan : https://os-agasyan.blogspot.co.id/2017/12/ulasan-1-pointers-and-arrays-in-cc.html
+Url Video : https://youtu.be/ASVB8KAFypk
+Pemetaan konten : week04
+Revisi Pertama : 2 Desember 2017
+Revisi Terakhir : 2 Desember 2017
